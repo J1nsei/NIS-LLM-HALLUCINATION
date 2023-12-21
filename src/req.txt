@@ -1,0 +1,6 @@
+torch
+nltk
+transformers
+scipy
+scikit-learn
+openai
